@@ -13,6 +13,7 @@ You can find more information in the file below.
 [Simulation of Information Spread in Social Networks.docx](https://github.com/user-attachments/files/18673832/Simulation.of.Information.Spread.in.Social.Networks.docx)
 
 
+You can see the images of a sample simulation created by running the project below.
 
 ![Image](https://github.com/user-attachments/assets/c3001805-215b-4689-b49d-f38040452ca2)
 
