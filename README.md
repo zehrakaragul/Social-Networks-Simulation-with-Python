@@ -8,3 +8,7 @@ Project Results:
 1)This project successfully models social network structures and analyzes influence among individuals.
 2)The PageRank algorithm is effectively applied to identify the most influential individual in the network.
 3)The information spread simulation clearly visualizes how influence propagates among individuals.
+
+You can find more information in the file below.
+[Simulation of Information Spread in Social Networks.docx](https://github.com/user-attachments/files/18673832/Simulation.of.Information.Spread.in.Social.Networks.docx)
+
